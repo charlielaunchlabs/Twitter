@@ -1,0 +1,16 @@
+﻿<Properties StartupItem="Droid/Twitter.Droid.csproj">
+  <MonoDevelop.Ide.Workbench ActiveDocument="iOS/LoginPageRenderer.cs">
+    <Files>
+      <File FileName="Twitter/Twitter.cs" Line="43" Column="4" />
+      <File FileName="Twitter/HomePage.cs" Line="16" Column="26" />
+      <File FileName="Twitter/HomePageModel.cs" Line="11" Column="42" />
+      <File FileName="Twitter/LoginPage.cs" Line="9" Column="3" />
+      <File FileName="Droid/LoginPageRenderer.cs" Line="76" Column="6" />
+      <File FileName="iOS/LoginPageRenderer.cs" Line="76" Column="37" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.Twitter.Droid PreferredExecutionTarget="Android.Nexus 4 (Jelly Bean)" />
+</Properties>
